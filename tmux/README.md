@@ -1,4 +1,4 @@
-#Tmux Config File:
+# Tmux Config File:
 
 - **Ctrl-a** => Prefix set.
 - **Ctrl-a Alt-m** => Toggle between mouse mode on/off.
